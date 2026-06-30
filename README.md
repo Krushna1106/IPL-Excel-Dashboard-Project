@@ -130,17 +130,15 @@ Through this project, I strengthened my understanding of:
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of your dashboards here.
+## 📸 Dashboard Preview
 
-Example:
+### 🏏 Team Performance Dashboard
 
-```
-images/
-│
-├── Team Dashboard.png
-└── Player Dashboard.png
-```
+![Team Performance Dashboard](images/Dashboard.png)
 
+### 👤 Player Performance Dashboard
+
+![Player Performance Dashboard](images/Dashboard%202.png)
 ---
 
 ## 📌 Future Improvements
