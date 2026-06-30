@@ -129,16 +129,8 @@ Through this project, I strengthened my understanding of:
 ---
 
 ## 📸 Dashboard Preview
+# Attached in The Repositories
 
-## 📸 Dashboard Preview
-
-### 🏏 Team Performance Dashboard
-
-![Team Performance Dashboard](images/Dashboard.png)
-
-### 👤 Player Performance Dashboard
-
-![Player Performance Dashboard](images/Dashboard%202.png)
 ---
 
 ## 📌 Future Improvements
